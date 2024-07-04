@@ -1,5 +1,3 @@
-# SimpleBlockchainContract-EthTransfer-python-ganache
-
 # Ethereum Transaction Script Using Web3.py and Ganache
 
 This repository contains a Python script to send Ether (ETH) from one address to another using the Web3.py library and Ganache for local Ethereum blockchain simulation.
