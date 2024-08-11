@@ -13,8 +13,8 @@ Before you start, ensure you have the following installed:
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/sahil-makandar/SimpleBlockchainContract-EthTransfer-python-ganache.git
-    cd SimpleBlockchainContract-EthTransfer-python-ganache
+    git clone https://github.com/sahil-makandar/BlockchainContract-EtheriumTransfer.git
+    cd BlockchainContract-EtheriumTransfer
     ```
 
 2. **Install the required Python packages**:
